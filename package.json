@@ -1,0 +1,27 @@
+{
+  "name": "firebase-fundamentals",
+  "version": "1.0.0",
+  "description": "This a small repo to track my Firebase Fundamentals learning progress.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwx-amr/Firebase-Fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwx-amr/Firebase-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/lwx-amr/Firebase-Fundamentals#readme",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "firebase": "^9.6.4"
+  }
+}
